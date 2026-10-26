@@ -1,0 +1,95 @@
+Architecture,Article ID
+Transformer,1
+Gradient Boosting,2
+RNN/LSTM/GRU,2
+FNN/MLP,2
+FNN/MLP,3
+SVM,4
+Random Forest,5
+RNN/LSTM/GRU,6
+Transformer,7
+Gradient Boosting,8
+FNN/MLP,8
+Random Forest,8
+SVM,9
+Gradient Boosting,10
+CNN,11
+FNN/MLP,12
+FNN/MLP,13
+Transformer,13
+RNN/LSTM/GRU,14
+SVM,15
+Gradient Boosting,16
+Random Forest,16
+SVM,17
+Transformer,18
+FNN/MLP,19
+Random Forest,20
+Random Forest,21
+Gradient Boosting,21
+Random Forest,22
+CNN,22
+SVM,23
+Transformer,23
+RNN/LSTM/GRU,24
+Gradient Boosting,24
+Gradient Boosting,25
+SVM,26
+FNN/MLP,27
+SVM,28
+Gradient Boosting,28
+CNN,28
+FNN/MLP,29
+Random Forest,30
+RNN/LSTM/GRU,30
+SVM,31
+Random Forest,32
+FNN/MLP,32
+Gradient Boosting,33
+FNN/MLP,34
+CNN,35
+Transformer,35
+SVM,36
+FNN/MLP,36
+Transformer,37
+RNN/LSTM/GRU,38
+Gradient Boosting,39
+Transformer,39
+Random Forest,39
+Random Forest,40
+RNN/LSTM/GRU,40
+CNN,40
+CNN,41
+FNN/MLP,42
+SVM,43
+RNN/LSTM/GRU,43
+Transformer,43
+CNN,44
+FNN/MLP,44
+Transformer,44
+SVM,45
+CNN,45
+Gradient Boosting,45
+Transformer,46
+SVM,46
+Random Forest,47
+FNN/MLP,48
+Gradient Boosting,49
+Transformer,49
+Transformer,50
+SVM,51
+CNN,52
+Gradient Boosting,52
+SVM,52
+CNN,53
+FNN/MLP,54
+Gradient Boosting,55
+FNN/MLP,55
+SVM,55
+Gradient Boosting,56
+Gradient Boosting,57
+CNN,57
+RNN/LSTM/GRU,58
+RNN/LSTM/GRU,59
+FNN/MLP,60
+SVM,60
