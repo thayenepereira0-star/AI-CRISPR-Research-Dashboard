@@ -1,0 +1,7 @@
+# Power BI temp / backup
+*.bak
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db
